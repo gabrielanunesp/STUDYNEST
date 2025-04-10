@@ -1,12 +1,49 @@
-# React + Vite
+# 🦉 StudyNest
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao **StudyNest**, uma plataforma de estudos com gamificação que transforma o aprendizado em uma jornada divertida, visual e motivadora!
 
-Currently, two official plugins are available:
+![StudyNest Banner](public/logo-coruja.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Funcionalidades
 
-## Expanding the ESLint configuration
+- 🌙 Suporte a tema **claro/escuro**
+- 📊 Gráfico de progresso com Recharts
+- 🏆 Painel de conquistas com animações
+- 📚 Lista de cursos disponíveis
+- 🏅 Ranking dos melhores alunos
+- 🦉 Mascote coruja motivacional!
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📱 Responsividade
+
+A interface do StudyNest é 100% responsiva e funciona lindamente tanto em **celulares** quanto em **desktops**.
+
+## 🚀 Tecnologias Utilizadas
+
+- **React 19**
+- **React Router Dom 7**
+- **Tailwind CSS 4.1**
+- **Framer Motion**
+- **Recharts**
+- **Vite**
+
+## 🛠️ Como rodar o projeto localmente
+
+### Pré-requisitos
+
+- Node.js instalado
+- Git instalado
+
+### Passo a passo
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/studynest.git
+
+# Entre na pasta
+cd studynest
+
+# Instale as dependências
+npm install
+
+# Rode o projeto
+npm run dev
